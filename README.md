@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-00000&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Jack-00000&theme=onedark&show_icons=ture" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Jack-00000&count_private=true&show_icons=true&theme=onedark" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yoshimitakuto&theme=onedark&column=7
