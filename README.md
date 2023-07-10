@@ -1,10 +1,3 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username={Jack-00000}&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username={Jack-00000}&theme=onedark&show_icons=ture" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username={Jack-00000}&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Jack-00000/Jack-00000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-00000&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Jack-00000&theme=onedark&show_icons=ture" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Jack-00000&count_private=true&show_icons=true&theme=onedark" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoshimitakuto&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
